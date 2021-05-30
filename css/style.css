@@ -1,0 +1,28 @@
+input {
+    height: 35px;
+    width: 200px;
+    padding-left: 7px;
+}
+button{
+    margin-right: 5px;
+}
+#createContact label{
+    width: 70px;
+}
+#table, #form{
+    margin: 12px;
+}
+#contactList{
+	border-spacing: 5px;
+	border-collapse: separate;
+}
+#addContact{
+margin-top: 10px;
+}
+#contacts button{
+    width: 70px;
+}
+.form_part{
+    margin: 5px;
+    font-size: 14px;
+}
